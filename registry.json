@@ -4,8 +4,8 @@
     {
       "name": "tikr",
       "description": "TIKR transcript, earnings, estimates, and valuation data",
-      "install": "curl -fsSL https://raw.githubusercontent.com/mdruuu/tikr-cli/main/scripts/install.sh | bash",
-      "homepage": "https://github.com/mdruuu/tikr-cli",
+      "install": "curl -fsSL https://raw.githubusercontent.com/mdruuu/tikr-releases/main/install.sh | bash",
+      "homepage": "https://github.com/mdruuu/tikr-releases",
       "feedback": "hello@actuallyprettyuseful.com"
     }
   ]
