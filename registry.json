@@ -6,7 +6,8 @@
       "description": "TIKR transcript, earnings, estimates, and valuation data",
       "install": "curl -fsSL https://raw.githubusercontent.com/mdruuu/tikr-releases/main/install.sh | bash",
       "homepage": "https://github.com/mdruuu/tikr-releases",
-      "feedback": "hello@actuallyprettyuseful.com"
+      "feedback": "hello@actuallyprettyuseful.com",
+      "version": "1.1.0"
     }
   ]
 }
